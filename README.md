@@ -33,7 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwajeet1809&show_icons=true&locale=en" alt="vishwajeet1809" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeet1809&" alt="vishwajeet1809" /></p>
 
 
 <div align="center">
