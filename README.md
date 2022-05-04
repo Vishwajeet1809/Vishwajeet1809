@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vishwajeet1809](https://github.com/Vishwajeet1809)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Vishwajeet1809)
 
 - 💬 Ask me about **Discord and Programming**
 
-- 📫 How to reach me **vishwajeet1809@gmail.com**
+- 📫 How to reach me **Discord**
 
 - ⚡ Fun fact **I'm Learning HTML,CSS and JS**
 
