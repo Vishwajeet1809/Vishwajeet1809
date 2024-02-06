@@ -1,4 +1,4 @@
-<div id="slider">
+<div id="slider" align="center" >
   <figure>
     <img src="standard (9).gif">
   </figure>
