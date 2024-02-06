@@ -5,9 +5,8 @@
 </div>
 
 
-<div style="text-align:center;">
-<h2> Full Stack Python Developer </h2>
-</div>
+## Full Stack Python Developer 
+
 
 - 🔭 I’m currently working on **My Self**
 
@@ -49,5 +48,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="center"><b><p style="color: #03fce3;">Vishwajeet1809©</p></b></div>
+### Vishwajeet1809©
 
