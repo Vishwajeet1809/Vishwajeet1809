@@ -22,6 +22,7 @@
   </figure>
 </div>
 
+<div>
 <style>
   #slider {
     overflow: hidden;
@@ -64,13 +65,11 @@
     100% { left: -900%; }
   }
 </style>
+</div>
 
 <div style="text-align:center;">
 <h2> Full Stack Python Developer </h2>
-
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajeet1809&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajeet1809" /> </p>
 
 - 🔭 I’m currently working on **My Self**
 
