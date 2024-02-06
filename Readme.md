@@ -1,47 +1,7 @@
-<div id="slider" style" overflow: hidden;
-    border-radius: 20px;">
-  <figure style="position: relative;
-    width: 1900%;
-    margin: 0;
-    padding: 0;
-    font-size: 0;
-    animation: 38s slidy infinite;">
-    <img src="standard (1).gif" style=" width: 5.263%;
-    height: auto;
-    float: left;
-    border-radius: 20px;">
-    <img src="standard (2).gif" style=" width: 5.263%;
-    height: auto;
-    float: left;
-    border-radius: 20px;>
-    <img src="standard (3).gifstyle=" width: 5.263%;
-    height: auto;
-    float: left;
-    border-radius: 20px;">
-    <img src="standard (4).gif"style=" width: 5.263%;
-    height: auto;
-    float: left;
-    border-radius: 20px;>
-    <img src="standard (5).gif"style=" width: 5.263%;
-    height: auto;
-    float: left;
-    border-radius: 20px;>
-    <img src="standard (6).gif">
-    <img src="standard (7).gif">
-    <img src="standard (8).gif">
-    <img src="standard (9).gif">
-    <img src="standard (10).gif">
-    <img src="standard (11).gif">
-    <img src="standard (12).gif">
-    <img src="standard (13).gif">
-    <img src="standard (14).gif">
-    <img src="standard (15).gif">
-    <img src="standard (16).gif">
-    <img src="standard (17).gif">
-    <img src="standard (18).gif">
-    <img src="standard (19).gif">
-  </figure>
+<div>
+    <img scr="standard (9)">
 </div>
+
 
 <div style="text-align:center;">
 <h2> Full Stack Python Developer </h2>
