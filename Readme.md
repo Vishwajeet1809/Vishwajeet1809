@@ -5,7 +5,7 @@
 </div>
 
 
-``` Full Stack Python Developer ````
+```Full Stack Python Developer```
 
 
 - 🔭 I’m currently working on **My Self**
