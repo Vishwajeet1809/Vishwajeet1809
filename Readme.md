@@ -1,6 +1,15 @@
-<div id="slider">
-  <figure>
-    <img src="standard (1).gif">
+<div id="slider" style" overflow: hidden;
+    border-radius: 20px;">
+  <figure style="position: relative;
+    width: 1900%;
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+    animation: 38s slidy infinite;">
+    <img src="standard (1).gif" style=" width: 5.263%;
+    height: auto;
+    float: left;
+    border-radius: 20px;">
     <img src="standard (2).gif">
     <img src="standard (3).gif">
     <img src="standard (4).gif">
@@ -20,51 +29,6 @@
     <img src="standard (18).gif">
     <img src="standard (19).gif">
   </figure>
-</div>
-
-<div>
-<style>
-  #slider {
-    overflow: hidden;
-    border-radius: 20px;
-  }
-  #slider figure {
-    position: relative;
-    width: 1900%; /* Adjusted width for 19 images */
-    margin: 0;
-    padding: 0;
-    font-size: 0;
-    animation: 38s slidy infinite;
-  }
-  #slider figure img {
-   width: 5.263%; /* Adjusted width for 19 images */
-    height: auto;
-    float: left;
-    border-radius: 20px;
-  }
-@keyframes slidy {
-    0% { left: 0%; }
-    5.263% { left: 0%; }
-    10.526% { left: -100%; }
-    15.789% { left: -100%; }
-    21.052% { left: -200%; }
-    26.315% { left: -200%; }
-    31.578% { left: -300%; }
-    36.842% { left: -300%; }
-    42.105% { left: -400%; }
-    47.368% { left: -400%; }
-    52.631% { left: -500%; }
-    57.894% { left: -500%; }
-    63.158% { left: -600%; }
-    68.421% { left: -600%; }
-    73.684% { left: -700%; }
-    78.947% { left: -700%; }
-    84.210% { left: -800%; }
-    89.474% { left: -800%; }
-    94.737% { left: -900%; }
-    100% { left: -900%; }
-  }
-</style>
 </div>
 
 <div style="text-align:center;">
