@@ -1,5 +1,7 @@
-<div>
+<div id="slider">
+  <figure>
     <img scr="standard (9)">
+  </figure>
 </div>
 
 
