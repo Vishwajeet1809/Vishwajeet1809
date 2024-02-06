@@ -4,8 +4,8 @@
   </figure>
 </div>
 
-
-<div id="headline-txt" align="center"><h3>Full Stack Python Developer </h3> </div>
+bash
+```Full Stack Python Developer````
 
 
 - 🔭 I’m currently working on **My Self**
