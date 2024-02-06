@@ -50,5 +50,11 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### Vishwajeet1809©
+<div id="slider" align="center" >
+   <p> Vishwajeet1809© </p>
+  <figure>
+    <img src="standard.gif">
+  </figure>
+</div>
+
 
