@@ -10,10 +10,22 @@
     height: auto;
     float: left;
     border-radius: 20px;">
-    <img src="standard (2).gif">
-    <img src="standard (3).gif">
-    <img src="standard (4).gif">
-    <img src="standard (5).gif">
+    <img src="standard (2).gif" style=" width: 5.263%;
+    height: auto;
+    float: left;
+    border-radius: 20px;>
+    <img src="standard (3).gifstyle=" width: 5.263%;
+    height: auto;
+    float: left;
+    border-radius: 20px;">
+    <img src="standard (4).gif"style=" width: 5.263%;
+    height: auto;
+    float: left;
+    border-radius: 20px;>
+    <img src="standard (5).gif"style=" width: 5.263%;
+    height: auto;
+    float: left;
+    border-radius: 20px;>
     <img src="standard (6).gif">
     <img src="standard (7).gif">
     <img src="standard (8).gif">
