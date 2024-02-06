@@ -4,8 +4,10 @@
   </figure>
 </div>
 
+---
 
-```Full Stack Python Developer```
+
+<div id="Headline-txt" align="center"><h3>Full-Stack Python Developer</h3></div>
 
 
 - 🔭 I’m currently working on **My Self**
