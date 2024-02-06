@@ -1,24 +1,6 @@
 <div id="slider">
   <figure>
-    <img src="standard (1).gif">
-    <img src="standard (2).gif">
-    <img src="standard (3).gif">
-    <img src="standard (4).gif">
-    <img src="standard (5).gif">
-    <img src="standard (6).gif">
-    <img src="standard (7).gif">
-    <img src="standard (8).gif">
     <img src="standard (9).gif">
-    <img src="standard (10).gif">
-    <img src="standard (11).gif">
-    <img src="standard (12).gif">
-    <img src="standard (13).gif">
-    <img src="standard (14).gif">
-    <img src="standard (15).gif">
-    <img src="standard (16).gif">
-    <img src="standard (17).gif">
-    <img src="standard (18).gif">
-    <img src="standard (19).gif">
   </figure>
 </div>
 
